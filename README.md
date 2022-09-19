@@ -1,15 +1,4 @@
-<img src="https://user-images.githubusercontent.com/79092734/191008296-35a6fc09-3948-4555-9943-81115ccc2eb8.png"> 
- <a><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" ></a> 
-  
- </p> <br> <br> 
-  
- <p align="center"> 
-  
- <a><img src="https://img.shields.io/github/forks/khaled-Elgamel/Medikals-Hospital-Managemet-System.svg" ></a> 
- <a><img src="https://img.shields.io/github/stars/khaled-Elgamel/Medikals-Hospital-Managemet-System.svg" ></a> 
- <a><img src="https://img.shields.io/github/watchers/khaled-Elgamel/Medikals-Hospital-Managemet-System.svg" ></a> 
- <a><img src="https://img.shields.io/github/downloads/khaled-Elgamel/Medikals-Hospital-Managemet-System/total.svg" ></a> 
- </p> 
+
   
  ## About Project 
   
