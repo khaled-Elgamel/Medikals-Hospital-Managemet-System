@@ -6,10 +6,10 @@
 
 <p align="center">
 
-<a><img src="https://img.shields.io/github/forks/ahmedsalman74/Medikals-Hospital-Managemet-System.svg" ></a>
-<a><img src="https://img.shields.io/github/stars/ahmedsalman74/Medikals-Hospital-Managemet-System.svg" ></a>
-<a><img src="https://img.shields.io/github/watchers/ahmedsalman74/Medikals-Hospital-Managemet-System.svg" ></a>
-<a><img src="https://img.shields.io/github/downloads/ahmedsalman74/Medikals-Hospital-Managemet-System/total.svg" ></a>
+<a><img src="https://img.shields.io/github/forks/khaled-Elgamel/Medikals-Hospital-Managemet-System.svg" ></a>
+<a><img src="https://img.shields.io/github/stars/khaled-Elgamel/Medikals-Hospital-Managemet-System.svg" ></a>
+<a><img src="https://img.shields.io/github/watchers/khaled-Elgamel/Medikals-Hospital-Managemet-System.svg" ></a>
+<a><img src="https://img.shields.io/github/downloads/khaled-Elgamel/Medikals-Hospital-Managemet-System/total.svg" ></a>
 </p>
 
 ## About Project
