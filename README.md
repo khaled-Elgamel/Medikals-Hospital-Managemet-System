@@ -1,4 +1,15 @@
-
+<img src="https://user-images.githubusercontent.com/79092734/191008296-35a6fc09-3948-4555-9943-81115ccc2eb8.png"> 
+<a><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" ></a> 
+  
+</p> <br> <br> 
+  
+ <p align="center"> 
+  
+ <a><img src="https://img.shields.io/github/forks/ahmedsalman74/Medikals-Hospital-Managemet-System.svg" ></a> 
+ <a><img src="https://img.shields.io/github/stars/ahmedsalman74/Medikals-Hospital-Managemet-System.svg" ></a> 
+ <a><img src="https://img.shields.io/github/watchers/ahmedsalman74/Medikals-Hospital-Managemet-System.svg" ></a> 
+ <a><img src="https://img.shields.io/github/downloads/ahmedsalman74/Medikals-Hospital-Managemet-System/total.svg" ></a> 
+ </p> 
   
  ## About Project 
   
@@ -101,6 +112,7 @@
  3- we have meddilewares for authintaction <br> 
  4- there user validation when login as user or as admin <br> 
  5- customized Error pages to prevent user from making errors <br> 
+  
  ## Data base  
  1- Data-Base created by miagrations and models <br> 
   
@@ -126,14 +138,9 @@
 
 
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+
+
 
 ## About Laravel
 
